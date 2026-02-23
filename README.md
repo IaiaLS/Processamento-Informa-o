@@ -1,2 +1,2 @@
 # Processamento-Informa-o
-repositório onde colocarei as listas e projetos que desenvolvi durante a execução da disciplina processamento da informação
+repositório onde colocarei as listas e projetos que desenvolvi durante a execução da disciplina processamento da informação, Amaury Kruel Budri 2026.1
